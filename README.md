@@ -2,7 +2,7 @@
  
 <br/>
 <p align="center">
-![p1](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/44b5f67f-f440-4ae4-bffe-b511cfb8a39f)
+![p1](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/44b5f67f-f440-4ae4-bffe-b511cfb8a39f.jpg)
 </p>
 
 ## ⭐ Introduction
