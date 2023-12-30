@@ -32,7 +32,7 @@ This project is a Task management Application which is built using the HTML, CSS
 ## 💻 Screens
 
 <p align="justify">
-<img src="![image](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/a6449029-f98c-4339-bcc9-0ab1f364533e)
+<img src="![image](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/a6449029-f98c-4339-bcc9-0ab1f364533e.png)
 ">
 <img src="![image](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/1a9e75fb-dcd8-4ac8-9719-3e318dd2483f)
 ">
