@@ -2,7 +2,7 @@
  
 <br/>
 <p align="center">
-<img src="https://github.com/Ritiksharma-06/Task-manager/assets/111641844/1d4cc203-c4ba-4175-b8eb-32956c19fc1e.png
+<img src="![image](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/9ef798c0-ad81-4832-87b0-e54d9583babc)
 ">
 </p>
 
