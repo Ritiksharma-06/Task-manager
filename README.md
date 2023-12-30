@@ -2,8 +2,7 @@
  
 <br/>
 <p align="center">
-<img src="![image](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/9ef798c0-ad81-4832-87b0-e54d9583babc)
-">
+<img src="![p1](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/b36894cb-ae93-45ff-b6d8-5ad2e5d92418.JPG)">
 </p>
 
 ## ⭐ Introduction
