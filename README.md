@@ -2,7 +2,8 @@
  
 <br/>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/111641844/44b5f67f-f440-4ae4-bffe-b511cfb8a39f.jpg">
+ ![p1](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/8f9d3d1a-0ce0-4ef4-b8c6-b65764414549)
+
 </p>
 
 ## ⭐ Introduction
