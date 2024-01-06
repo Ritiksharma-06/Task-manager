@@ -1,14 +1,9 @@
 # Task Manager 𝐀𝐩𝐩 🚀
  
 <br/>
-<p align="center">
- ![p1](https://github.com/Ritiksharma-06/Task-manager/assets/111641844/8f9d3d1a-0ce0-4ef4-b8c6-b65764414549)
-
-</p>
-
 ## ⭐ Introduction
 
-This project is a Task management Application which is built using the HTML, CSS, Vanilla Javascript. It implements all the basic functionalities of a todo list, i.e, CRUD Operations (Create Read Update Delete).
+This project is a Task management Application which is built using the HTML, CSS, Javascript. It implements all the basic functionalities of a todo list, i.e, CRUD Operations (Create Read Update Delete).
 
 -  Users are able to Create new tasks.
 -  Users are able to Read the created tasks data.
@@ -23,24 +18,4 @@ This project is a Task management Application which is built using the HTML, CSS
 
 ## 🔥 Getting Started With The Project
 
--  Fork the Project in your Repository.
--  Clone the Forked Repository in your Local System.
 -  Run on Live Server :)
-
-<br/>
-
-## 💻 Screens
-
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/111641844/a6449029-f98c-4339-bcc9-0ab1f364533e.jpg
-">
-<img src="https://user-images.githubusercontent.com/111641844/1a9e75fb-dcd8-4ac8-9719-3e318dd2483f.jpg
-">
-<img src="https://user-images.githubusercontent.com/111641844/6d565235-c323-45ed-8bee-259e572e96af.jpg
-">
-<img src="https://user-images.githubusercontent.com/111641844/ec412aa0-e02d-42bb-b772-0ab75bca52a5.jpg
-">
-<img src="https://user-images.githubusercontent.com/111641844/12403fdd-9d70-4edd-9579-9eae2d0809cf.jpg
-">
-</p>
-<br/>
